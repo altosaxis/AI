@@ -2,7 +2,15 @@ make cloud storage bucket
 then in search bar typr ai platform and open workbench in ai platform option and create notebook under tensorflow enterprise 2.9
 then open jupyter notebook instance and copy data from github
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
- training-data-analyst > courses > machine_learning > deepdive > 06_structured and open 1_explore.ipynb.{
+ training-data-analyst > courses > machine_learning > deepdive > 06_structured and open 1_explore.ipynb.
+ chown command changes user ownership of a file, directory, or link
+ sudo - super user do
+ -r Descends directories recursively, changing the ownership for each file.
+ OS module in Python provides functions for interacting with the operating system
+ %%bash
+Means, that the following code will be executed by bash.
+
+ {
  "cells": [
   {
    "cell_type": "markdown",
